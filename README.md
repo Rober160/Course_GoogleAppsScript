@@ -1,4 +1,4 @@
-# 📄 CursoAppsScriptRober
+# ✍️ Curso de Google Apps Script
 
 Repositorio con las prácticas realizadas durante el **curso de Google Apps Script** en **Vitaly Tech**, como parte de mi formación en automatización con herramientas de Google Workspace.
 
