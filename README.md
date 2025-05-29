@@ -54,9 +54,7 @@ También permite integrar servicios externos a través de **APIs REST** y gestio
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Workspace-5F6368?style=flat&logo=googleworkspace&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google%20Docs-4285F4?style=flat&logo=google-docs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google%20Drive-34A853?style=flat&logo=google-drive&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
 </p>
+
