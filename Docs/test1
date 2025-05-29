@@ -1,0 +1,7 @@
+function testDoc() {
+  const doc = DocumentApp.getActiveDocument();
+  const body = doc.getBody();
+  body.appendParagraph("Hello World");
+  body.appendPageBreak();
+  Logger.log(body);
+}
