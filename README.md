@@ -25,18 +25,25 @@ Es utilizado para tareas como:
 
 ---
 
-### ⚙️ ¿Con qué se utiliza?
+# ⚙️ ¿Con qué se utiliza Google Apps Script?
 
-Apps Script se integra de forma nativa con:
+Google Apps Script se integra de forma **nativa** con Google Workspace y permite automatizar procesos, conectar servicios externos y crear herramientas personalizadas en la nube.
 
-- 📊 **Google Sheets**
-- 📧 **Gmail**
-- 📁 **Google Drive**
-- 📝 **Google Docs**
-- 📋 **Google Forms**
-- 🗓️ **Google Calendar**
+---
 
-También permite integrar servicios externos a través de **APIs REST** y gestionar flujos automatizados dentro del entorno **Google Cloud**.
+## 🧩 Integraciones nativas con Google Workspace
+
+| Servicio         | Descripción                                                             |
+|------------------|-------------------------------------------------------------------------|
+| 📊 Google Sheets | Automatización de hojas, celdas, fórmulas, validaciones y reportes     |
+| 📧 Gmail         | Lectura, envío, respuestas automáticas, filtrado y etiquetado de correos|
+| 📁 Google Drive  | Gestión de archivos, carpetas, permisos, y almacenamiento               |
+| 📝 Google Docs   | Creación y edición dinámica de documentos de texto                      |
+| 📋 Google Forms  | Lectura y procesamiento automático de respuestas                        |
+| 🗓️ Google Calendar | Creación y gestión de eventos, recordatorios, calendarios compartidos |
+| 🧾 Google Slides | Creación y edición de presentaciones automáticamente                    |
+| 👥 Google Contacts | Consulta y gestión de contactos personales o empresariales            |
+| 🔒 Admin SDK     | Administración de usuarios, grupos y dominios (solo para administradores) |
 
 ---
 
